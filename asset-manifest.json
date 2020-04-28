@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/verde-today/static/css/main.06dbf1df.chunk.css",
+    "main.js": "/verde-today/static/js/main.e9fd5719.chunk.js",
+    "main.js.map": "/verde-today/static/js/main.e9fd5719.chunk.js.map",
+    "runtime-main.js": "/verde-today/static/js/runtime-main.a6ec35f4.js",
+    "runtime-main.js.map": "/verde-today/static/js/runtime-main.a6ec35f4.js.map",
+    "static/js/2.3f358c18.chunk.js": "/verde-today/static/js/2.3f358c18.chunk.js",
+    "static/js/2.3f358c18.chunk.js.map": "/verde-today/static/js/2.3f358c18.chunk.js.map",
+    "index.html": "/verde-today/index.html",
+    "precache-manifest.ebbc649a9ed71268f26ca61b5dba77bd.js": "/verde-today/precache-manifest.ebbc649a9ed71268f26ca61b5dba77bd.js",
+    "service-worker.js": "/verde-today/service-worker.js",
+    "static/css/main.06dbf1df.chunk.css.map": "/verde-today/static/css/main.06dbf1df.chunk.css.map",
+    "static/js/2.3f358c18.chunk.js.LICENSE": "/verde-today/static/js/2.3f358c18.chunk.js.LICENSE",
+    "static/media/index.css": "/verde-today/static/media/dollarCroped.b0d4bb41.jpg",
+    "static/media/refresh-icon.svg": "/verde-today/static/media/refresh-icon.c0df966c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6ec35f4.js",
+    "static/js/2.3f358c18.chunk.js",
+    "static/css/main.06dbf1df.chunk.css",
+    "static/js/main.e9fd5719.chunk.js"
+  ]
+}
