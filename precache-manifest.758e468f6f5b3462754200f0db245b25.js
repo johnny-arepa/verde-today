@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e62c7b34fdd6ed155367f9229d35a865",
+    "revision": "e1cc0f57f94024a4f1fdba43c8f8c070",
     "url": "/verde-today/index.html"
   },
   {
-    "revision": "fa40e84005afdf5d8c95",
-    "url": "/verde-today/static/css/main.148a6979.chunk.css"
+    "revision": "714c558d6665205c6f4e",
+    "url": "/verde-today/static/css/main.fdf80246.chunk.css"
   },
   {
     "revision": "1140fb84a5c26adaa930",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/verde-today/static/js/2.3f358c18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa40e84005afdf5d8c95",
+    "revision": "714c558d6665205c6f4e",
     "url": "/verde-today/static/js/main.0d5840e8.chunk.js"
   },
   {

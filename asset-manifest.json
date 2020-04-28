@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/verde-today/static/css/main.148a6979.chunk.css",
+    "main.css": "/verde-today/static/css/main.fdf80246.chunk.css",
     "main.js": "/verde-today/static/js/main.0d5840e8.chunk.js",
     "main.js.map": "/verde-today/static/js/main.0d5840e8.chunk.js.map",
     "runtime-main.js": "/verde-today/static/js/runtime-main.a6ec35f4.js",
@@ -8,9 +8,9 @@
     "static/js/2.3f358c18.chunk.js": "/verde-today/static/js/2.3f358c18.chunk.js",
     "static/js/2.3f358c18.chunk.js.map": "/verde-today/static/js/2.3f358c18.chunk.js.map",
     "index.html": "/verde-today/index.html",
-    "precache-manifest.2809c73c5c4ecefdc87fff8810af62c3.js": "/verde-today/precache-manifest.2809c73c5c4ecefdc87fff8810af62c3.js",
+    "precache-manifest.758e468f6f5b3462754200f0db245b25.js": "/verde-today/precache-manifest.758e468f6f5b3462754200f0db245b25.js",
     "service-worker.js": "/verde-today/service-worker.js",
-    "static/css/main.148a6979.chunk.css.map": "/verde-today/static/css/main.148a6979.chunk.css.map",
+    "static/css/main.fdf80246.chunk.css.map": "/verde-today/static/css/main.fdf80246.chunk.css.map",
     "static/js/2.3f358c18.chunk.js.LICENSE.txt": "/verde-today/static/js/2.3f358c18.chunk.js.LICENSE.txt",
     "static/media/index.css": "/verde-today/static/media/dollarCroped.b0d4bb41.jpg",
     "static/media/refresh-icon.svg": "/verde-today/static/media/refresh-icon.c0df966c.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a6ec35f4.js",
     "static/js/2.3f358c18.chunk.js",
-    "static/css/main.148a6979.chunk.css",
+    "static/css/main.fdf80246.chunk.css",
     "static/js/main.0d5840e8.chunk.js"
   ]
 }

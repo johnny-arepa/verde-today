@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/verde-today/precache-manifest.2809c73c5c4ecefdc87fff8810af62c3.js"
+  "/verde-today/precache-manifest.758e468f6f5b3462754200f0db245b25.js"
 );
 
 self.addEventListener('message', (event) => {
