@@ -1,0 +1,26 @@
+Perfomance Tracker
+
+chart over daylie's progress
+
+set goals in hours / other units
+
+display percent of hours reached
+
+topics:
+  # Languages
+    - Eng 500h
+    - Spa 200h
+    - Por 200h
+  # Sport
+    - Pushups: 100
+    - Pullups: 20
+    - Swimming: 20 Freestyle
+    - Running: 30m 15Kmh
+    - Boxing: 6 * 2m Sparring
+  # Dancing
+    - Salsa 200h
+  # Programming
+    - React 500h
+    - Js  200h
+    - DB  100h
+    - Div.: Linux, Network, Git, Editors 200h

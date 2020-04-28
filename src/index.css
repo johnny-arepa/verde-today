@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +9,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  background: #333;
+  background: linear-gradient(
+      to bottom,
+      rgba(0, 10, 0, 0.95),
+      rgba(0, 10, 0, 0.85)
+    ),
+    url('./img/dollarCroped.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+input:focus,
+button:focus {
+  outline: none;
 }

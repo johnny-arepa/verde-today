@@ -1,0 +1,32 @@
+.Calculator {
+  display: flex;
+  font-size: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.Calculator input {
+  width: 80px;
+  margin-right: 20px;
+  margin-left: 5px;
+  text-align: right;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 4px;
+  background-color: transparent;
+  border: 1px solid var(--primary-color);
+  border: none;
+  color: var(--primary-color);
+}
+
+.Calculator input:focus {
+  background-color: rgba(92, 105, 92, 0.5);
+}
+
+.Calculator button {
+  border: 0;
+  font-size: 2rem;
+  background-color: transparent;
+  color: var(--primary-color);
+  margin: 0 5px;
+}
